@@ -1,0 +1,9 @@
+# Сборка Java
+server/build/
+*.class
+
+# Редактор и система
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
